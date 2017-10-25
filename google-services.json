@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "461225349421",
+    "firebase_url": "https://pcshotservice.firebaseio.com",
+    "project_id": "pcshotservice",
+    "storage_bucket": "pcshotservice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461225349421:android:0ef1b98ecc82b746",
+        "android_client_info": {
+          "package_name": "com.extension.chrome.mahikanthnag.pcshotservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461225349421-1v6mporjc1qkbclniv0pnvj5oe3egejo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEZ_6y0Z0LBiv5bcVs7CncjYcASxQ8lJE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

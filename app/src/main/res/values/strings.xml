@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PCShotService</string>
+    <string name="title_activity_service_trigger">ServiceTriggerActivity</string>
+</resources>
