@@ -7,7 +7,6 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Looper;
 import android.text.ClipboardManager;
-
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.messaging.FirebaseMessagingService;
