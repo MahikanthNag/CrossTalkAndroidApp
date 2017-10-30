@@ -40,7 +40,7 @@ public class ClipboardService extends FirebaseMessagingService {
     /**
      * Starts this service to perform action Foo with the given parameters. If
      * the service is already performing a task this action will be queued.
-     *
+     
      * @see IntentService
      */
     public static void startActionFoo(Context context, String param1, String param2) {
