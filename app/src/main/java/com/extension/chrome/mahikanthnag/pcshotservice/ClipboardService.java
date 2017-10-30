@@ -52,7 +52,7 @@ public class ClipboardService extends FirebaseMessagingService {
     /**
      * Starts this service to perform action Baz with the given parameters. If
      * the service is already performing a task this action will be queued.
-     *
+
      * @see IntentService
      */
     // TODO: Customize helper method
