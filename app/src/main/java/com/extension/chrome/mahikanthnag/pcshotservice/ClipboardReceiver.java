@@ -31,6 +31,7 @@ public class ClipboardReceiver extends BroadcastReceiver {
     Notification.Builder builder;
     Context context;
     ClipboardManager clipboard;
+    
     @Override
     public void onReceive(final Context context, Intent intent) {
         // TODO: This method is called when the BroadcastReceiver is receiving
