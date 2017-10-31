@@ -24,6 +24,7 @@ import static android.content.Context.NOTIFICATION_SERVICE;
 public class ClipboardReceiver extends BroadcastReceiver {
     private FirebaseDatabase database;
     private DatabaseReference myRef;
+    
     Notification notification;
     private ClipboardReceiver clipboardReceiver;
     NotificationManager notifManager;
